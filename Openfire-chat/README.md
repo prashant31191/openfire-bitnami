@@ -21,6 +21,15 @@ The sample application (the source is in the repository) has been published onto
 
 [![Get it on Google Play](http://www.android.com/images/brand/get_it_on_play_logo_small.png)](https://play.google.com/store/apps/details?id=com.mstr.letschat)
 
+## For the samples
+# Openfire chat/other
+
+https://bitnami.com/launch/openfire
+This is a demo of Openfire. The demo will automatically end after 1 hour.
+
+Admin Username: admin
+Admin Password: xxxxx
+
 ## Libraries
 Libraries used in this project include:
 - [MemorizingTrustManager](https://github.com/ge0rg/MemorizingTrustManager)
